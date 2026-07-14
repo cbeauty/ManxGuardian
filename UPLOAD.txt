@@ -1,0 +1,12 @@
+The Manx Guardian — static site upload
+
+Upload every file in this folder to your web host document root.
+No build step, npm, or node_modules required on the server.
+
+Files:
+  index.html   — open this in a browser
+  app.js       — site application
+  app.css      — styles
+  stats.json   — MHK statistics
+  profiles.json — politician profiles
+  favicon.svg
