@@ -10,3 +10,4 @@ Files:
   stats.json   — MHK statistics
   profiles.json — politician profiles
   favicon.svg
+  karran.jpg   — featured profile photo
